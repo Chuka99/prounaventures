@@ -1,0 +1,25 @@
+p{
+	text-align: justify;
+}
+.topsection{
+	background-color: blue !important;
+}
+
+.next{
+	margin-left: 180px !important;
+	margin-bottom: 20px;
+}
+
+
+
+/*Why Page*/
+.about{
+	margin-bottom: 40px;
+	line-height: 1.5;
+}
+
+
+.features{
+	margin: 40px auto !important;
+	line-height: 1.5;
+}
